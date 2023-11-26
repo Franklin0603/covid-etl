@@ -1,0 +1,6 @@
+date,validate_test,validate_flag,error_message,error_level
+2023-07-14,cases_vs_deaths,failed,Death counts cannot exceed case counts.,warning
+2023-07-14,unique_records,passed,successful,info
+2023-07-14,no_nulls_test,failed,All values are expected to be non-null.,critical
+2023-07-14,cases_range_test,passed,successful,info
+2023-07-14,deaths_range_test,failed,Deaths must be non-negative and <= 100K.,critical

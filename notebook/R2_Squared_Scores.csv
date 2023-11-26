@@ -1,0 +1,4 @@
+,Feature,R2_Score
+0,hospitalizedCurrently,0.5139291887372626
+1,inIcuCurrently,0.5433452864899586
+2,onVentilatorCurrently,0.483789082203649

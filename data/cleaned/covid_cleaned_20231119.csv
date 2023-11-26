@@ -1,0 +1,1000 @@
+CASES_DATE,COUNTY,STATE,FIPS,CASES,DEATHS,DB_DATE_UPLOAD,SOURCE_TYPE
+2020-01-21,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-01-22,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-01-23,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-01-24,Cook,Illinois,17031,1,0.0,2023-11-19,local
+2020-01-24,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-01-25,Orange,California,06059,1,0.0,2023-11-19,local
+2020-01-25,Cook,Illinois,17031,1,0.0,2023-11-19,local
+2020-01-25,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-01-26,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-01-26,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-01-26,Orange,California,06059,1,0.0,2023-11-19,local
+2020-01-26,Cook,Illinois,17031,1,0.0,2023-11-19,local
+2020-01-26,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-01-27,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-01-27,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-01-27,Orange,California,06059,1,0.0,2023-11-19,local
+2020-01-27,Cook,Illinois,17031,1,0.0,2023-11-19,local
+2020-01-27,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-01-28,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-01-28,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-01-28,Orange,California,06059,1,0.0,2023-11-19,local
+2020-01-28,Cook,Illinois,17031,1,0.0,2023-11-19,local
+2020-01-28,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-01-29,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-01-29,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-01-29,Orange,California,06059,1,0.0,2023-11-19,local
+2020-01-29,Cook,Illinois,17031,1,0.0,2023-11-19,local
+2020-01-29,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-01-30,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-01-30,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-01-30,Orange,California,06059,1,0.0,2023-11-19,local
+2020-01-30,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-01-30,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-01-31,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-01-31,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-01-31,Orange,California,06059,1,0.0,2023-11-19,local
+2020-01-31,Santa Clara,California,06085,1,0.0,2023-11-19,local
+2020-01-31,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-01-31,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-01,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-01,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-01,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-01,Santa Clara,California,06085,1,0.0,2023-11-19,local
+2020-02-01,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-01,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-01,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-02,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-02,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-02,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-02,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-02,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-02,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-02,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-02,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-03,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-03,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-03,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-03,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-03,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-03,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-03,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-03,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-04,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-04,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-04,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-04,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-04,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-04,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-04,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-04,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-05,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-05,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-05,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-05,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-05,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-05,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-05,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-05,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-05,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-06,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-06,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-06,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-06,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-06,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-06,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-06,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-06,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-06,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-07,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-07,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-07,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-07,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-07,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-07,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-07,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-07,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-07,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-08,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-08,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-08,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-08,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-08,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-08,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-08,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-08,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-08,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-09,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-09,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-09,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-09,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-09,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-09,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-09,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-09,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-09,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-10,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-10,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-10,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-10,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-10,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-10,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-10,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-10,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-10,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-10,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-11,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-11,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-11,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-11,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-11,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-11,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-11,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-11,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-11,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-11,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-12,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-12,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-12,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-12,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-12,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-12,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-12,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-12,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-12,Bexar,Texas,48029,1,0.0,2023-11-19,local
+2020-02-12,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-12,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-13,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-13,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-13,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-13,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-13,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-13,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-13,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-13,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-13,Bexar,Texas,48029,2,0.0,2023-11-19,local
+2020-02-13,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-13,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-14,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-14,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-14,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-14,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-14,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-14,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-14,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-14,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-14,Bexar,Texas,48029,2,0.0,2023-11-19,local
+2020-02-14,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-14,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-15,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-15,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-15,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-15,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-15,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-15,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-15,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-15,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-15,Bexar,Texas,48029,2,0.0,2023-11-19,local
+2020-02-15,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-15,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-16,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-16,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-16,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-16,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-16,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-16,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-16,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-16,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-16,Bexar,Texas,48029,2,0.0,2023-11-19,local
+2020-02-16,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-16,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-17,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-17,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-17,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-17,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-17,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-17,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-17,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-17,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-17,Douglas,Nebraska,31055,10,0.0,2023-11-19,local
+2020-02-17,Bexar,Texas,48029,2,0.0,2023-11-19,local
+2020-02-17,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-17,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-18,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-18,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-18,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-18,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-18,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-18,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-18,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-18,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-18,Douglas,Nebraska,31055,10,0.0,2023-11-19,local
+2020-02-18,Bexar,Texas,48029,2,0.0,2023-11-19,local
+2020-02-18,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-18,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-19,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-19,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-19,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-19,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-19,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-19,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-19,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-19,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-19,Douglas,Nebraska,31055,10,0.0,2023-11-19,local
+2020-02-19,Bexar,Texas,48029,2,0.0,2023-11-19,local
+2020-02-19,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-19,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-20,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-20,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-02-20,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-20,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-20,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-20,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-20,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-20,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-20,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-20,Douglas,Nebraska,31055,11,0.0,2023-11-19,local
+2020-02-20,Bexar,Texas,48029,2,0.0,2023-11-19,local
+2020-02-20,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-20,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-21,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-21,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-02-21,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-21,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-21,Sacramento,California,06067,1,0.0,2023-11-19,local
+2020-02-21,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-21,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-21,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-21,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-21,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-21,Douglas,Nebraska,31055,11,0.0,2023-11-19,local
+2020-02-21,Bexar,Texas,48029,4,0.0,2023-11-19,local
+2020-02-21,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-21,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-22,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-22,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-02-22,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-22,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-22,Sacramento,California,06067,1,0.0,2023-11-19,local
+2020-02-22,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-22,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-22,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-22,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-22,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-22,Douglas,Nebraska,31055,11,0.0,2023-11-19,local
+2020-02-22,Bexar,Texas,48029,4,0.0,2023-11-19,local
+2020-02-22,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-22,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-23,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-23,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-02-23,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-23,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-23,Sacramento,California,06067,1,0.0,2023-11-19,local
+2020-02-23,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-23,San Francisco,California,06075,2,0.0,2023-11-19,local
+2020-02-23,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-23,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-23,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-23,Douglas,Nebraska,31055,11,0.0,2023-11-19,local
+2020-02-23,Bexar,Texas,48029,4,0.0,2023-11-19,local
+2020-02-23,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-23,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-24,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-24,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-02-24,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-24,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-24,Sacramento,California,06067,1,0.0,2023-11-19,local
+2020-02-24,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-24,San Francisco,California,06075,3,0.0,2023-11-19,local
+2020-02-24,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-24,Solano,California,06095,1,0.0,2023-11-19,local
+2020-02-24,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-24,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-24,Douglas,Nebraska,31055,12,0.0,2023-11-19,local
+2020-02-24,Bexar,Texas,48029,10,0.0,2023-11-19,local
+2020-02-24,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-24,Spokane,Washington,53063,4,0.0,2023-11-19,local
+2020-02-24,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-25,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-25,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-02-25,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-25,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-25,Sacramento,California,06067,1,0.0,2023-11-19,local
+2020-02-25,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-25,San Francisco,California,06075,3,0.0,2023-11-19,local
+2020-02-25,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-25,Solano,California,06095,1,0.0,2023-11-19,local
+2020-02-25,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-25,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-25,Douglas,Nebraska,31055,13,0.0,2023-11-19,local
+2020-02-25,Bexar,Texas,48029,10,0.0,2023-11-19,local
+2020-02-25,Salt Lake,Utah,49035,1,0.0,2023-11-19,local
+2020-02-25,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-25,Spokane,Washington,53063,4,0.0,2023-11-19,local
+2020-02-25,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-26,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-26,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-02-26,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-26,Marin,California,06041,1,0.0,2023-11-19,local
+2020-02-26,Napa,California,06055,1,0.0,2023-11-19,local
+2020-02-26,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-26,Sacramento,California,06067,3,0.0,2023-11-19,local
+2020-02-26,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-26,San Francisco,California,06075,3,0.0,2023-11-19,local
+2020-02-26,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-26,Solano,California,06095,11,0.0,2023-11-19,local
+2020-02-26,Sonoma,California,06097,1,0.0,2023-11-19,local
+2020-02-26,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-26,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-26,Douglas,Nebraska,31055,13,0.0,2023-11-19,local
+2020-02-26,Bexar,Texas,48029,10,0.0,2023-11-19,local
+2020-02-26,Salt Lake,Utah,49035,1,0.0,2023-11-19,local
+2020-02-26,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-26,Spokane,Washington,53063,4,0.0,2023-11-19,local
+2020-02-26,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-27,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-27,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-02-27,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-27,Marin,California,06041,1,0.0,2023-11-19,local
+2020-02-27,Napa,California,06055,1,0.0,2023-11-19,local
+2020-02-27,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-27,Sacramento,California,06067,3,0.0,2023-11-19,local
+2020-02-27,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-27,San Francisco,California,06075,3,0.0,2023-11-19,local
+2020-02-27,Santa Clara,California,06085,2,0.0,2023-11-19,local
+2020-02-27,Solano,California,06095,11,0.0,2023-11-19,local
+2020-02-27,Sonoma,California,06097,1,0.0,2023-11-19,local
+2020-02-27,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-27,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-27,Douglas,Nebraska,31055,13,0.0,2023-11-19,local
+2020-02-27,Bexar,Texas,48029,10,0.0,2023-11-19,local
+2020-02-27,Salt Lake,Utah,49035,1,0.0,2023-11-19,local
+2020-02-27,Snohomish,Washington,53061,1,0.0,2023-11-19,local
+2020-02-27,Spokane,Washington,53063,4,0.0,2023-11-19,local
+2020-02-27,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-28,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-28,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-02-28,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-28,Marin,California,06041,1,0.0,2023-11-19,local
+2020-02-28,Napa,California,06055,1,0.0,2023-11-19,local
+2020-02-28,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-28,Sacramento,California,06067,3,0.0,2023-11-19,local
+2020-02-28,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-28,San Francisco,California,06075,3,0.0,2023-11-19,local
+2020-02-28,Santa Clara,California,06085,3,0.0,2023-11-19,local
+2020-02-28,Solano,California,06095,11,0.0,2023-11-19,local
+2020-02-28,Sonoma,California,06097,1,0.0,2023-11-19,local
+2020-02-28,Cook,Illinois,17031,2,0.0,2023-11-19,local
+2020-02-28,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-28,Douglas,Nebraska,31055,13,0.0,2023-11-19,local
+2020-02-28,Washington,Oregon,41067,1,0.0,2023-11-19,local
+2020-02-28,Bexar,Texas,48029,11,0.0,2023-11-19,local
+2020-02-28,Salt Lake,Utah,49035,1,0.0,2023-11-19,local
+2020-02-28,King,Washington,53033,1,0.0,2023-11-19,local
+2020-02-28,Snohomish,Washington,53061,2,0.0,2023-11-19,local
+2020-02-28,Spokane,Washington,53063,4,0.0,2023-11-19,local
+2020-02-28,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-02-29,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-02-29,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-02-29,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-02-29,Marin,California,06041,1,0.0,2023-11-19,local
+2020-02-29,Napa,California,06055,1,0.0,2023-11-19,local
+2020-02-29,Orange,California,06059,1,0.0,2023-11-19,local
+2020-02-29,Sacramento,California,06067,3,0.0,2023-11-19,local
+2020-02-29,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-02-29,San Francisco,California,06075,3,0.0,2023-11-19,local
+2020-02-29,Santa Clara,California,06085,4,0.0,2023-11-19,local
+2020-02-29,Solano,California,06095,11,0.0,2023-11-19,local
+2020-02-29,Sonoma,California,06097,1,0.0,2023-11-19,local
+2020-02-29,Cook,Illinois,17031,3,0.0,2023-11-19,local
+2020-02-29,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-02-29,Douglas,Nebraska,31055,13,0.0,2023-11-19,local
+2020-02-29,Washington,Oregon,41067,1,0.0,2023-11-19,local
+2020-02-29,Bexar,Texas,48029,11,0.0,2023-11-19,local
+2020-02-29,Salt Lake,Utah,49035,1,0.0,2023-11-19,local
+2020-02-29,King,Washington,53033,4,1.0,2023-11-19,local
+2020-02-29,Snohomish,Washington,53061,2,0.0,2023-11-19,local
+2020-02-29,Spokane,Washington,53063,4,0.0,2023-11-19,local
+2020-02-29,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-03-01,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-03-01,Alameda,California,06001,1,0.0,2023-11-19,local
+2020-03-01,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-03-01,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-03-01,Marin,California,06041,1,0.0,2023-11-19,local
+2020-03-01,Napa,California,06055,1,0.0,2023-11-19,local
+2020-03-01,Orange,California,06059,1,0.0,2023-11-19,local
+2020-03-01,Sacramento,California,06067,3,0.0,2023-11-19,local
+2020-03-01,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-03-01,San Francisco,California,06075,3,0.0,2023-11-19,local
+2020-03-01,Santa Clara,California,06085,7,0.0,2023-11-19,local
+2020-03-01,Solano,California,06095,12,0.0,2023-11-19,local
+2020-03-01,Sonoma,California,06097,1,0.0,2023-11-19,local
+2020-03-01,Hillsborough,Florida,12057,1,0.0,2023-11-19,local
+2020-03-01,Manatee,Florida,12081,1,0.0,2023-11-19,local
+2020-03-01,Cook,Illinois,17031,3,0.0,2023-11-19,local
+2020-03-01,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-03-01,Douglas,Nebraska,31055,13,0.0,2023-11-19,local
+2020-03-01,Washington,Oregon,41067,2,0.0,2023-11-19,local
+2020-03-01,Bexar,Texas,48029,11,0.0,2023-11-19,local
+2020-03-01,Salt Lake,Utah,49035,1,0.0,2023-11-19,local
+2020-03-01,King,Washington,53033,11,3.0,2023-11-19,local
+2020-03-01,Snohomish,Washington,53061,2,0.0,2023-11-19,local
+2020-03-01,Spokane,Washington,53063,4,0.0,2023-11-19,local
+2020-03-01,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-03-02,Maricopa,Arizona,04013,1,0.0,2023-11-19,local
+2020-03-02,Alameda,California,06001,1,0.0,2023-11-19,local
+2020-03-02,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-03-02,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-03-02,Marin,California,06041,1,0.0,2023-11-19,local
+2020-03-02,Napa,California,06055,1,0.0,2023-11-19,local
+2020-03-02,Orange,California,06059,1,0.0,2023-11-19,local
+2020-03-02,Placer,California,06061,1,0.0,2023-11-19,local
+2020-03-02,Sacramento,California,06067,3,0.0,2023-11-19,local
+2020-03-02,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-03-02,San Francisco,California,06075,3,0.0,2023-11-19,local
+2020-03-02,San Mateo,California,06081,1,0.0,2023-11-19,local
+2020-03-02,Santa Clara,California,06085,9,0.0,2023-11-19,local
+2020-03-02,Solano,California,06095,12,0.0,2023-11-19,local
+2020-03-02,Sonoma,California,06097,2,0.0,2023-11-19,local
+2020-03-02,Hillsborough,Florida,12057,1,0.0,2023-11-19,local
+2020-03-02,Manatee,Florida,12081,1,0.0,2023-11-19,local
+2020-03-02,Fulton,Georgia,13121,2,0.0,2023-11-19,local
+2020-03-02,Cook,Illinois,17031,4,0.0,2023-11-19,local
+2020-03-02,Norfolk,Massachusetts,25021,1,0.0,2023-11-19,local
+2020-03-02,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-03-02,Douglas,Nebraska,31055,13,0.0,2023-11-19,local
+2020-03-02,Grafton,New Hampshire,33009,1,0.0,2023-11-19,local
+2020-03-02,Washington,Oregon,41067,2,0.0,2023-11-19,local
+2020-03-02,Bexar,Texas,48029,11,0.0,2023-11-19,local
+2020-03-02,Salt Lake,Utah,49035,1,0.0,2023-11-19,local
+2020-03-02,King,Washington,53033,15,6.0,2023-11-19,local
+2020-03-02,Snohomish,Washington,53061,3,0.0,2023-11-19,local
+2020-03-02,Spokane,Washington,53063,4,0.0,2023-11-19,local
+2020-03-02,Walla Walla,Washington,53071,1,0.0,2023-11-19,local
+2020-03-02,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-03-03,Maricopa,Arizona,04013,2,0.0,2023-11-19,local
+2020-03-03,Alameda,California,06001,2,0.0,2023-11-19,local
+2020-03-03,Contra Costa,California,06013,1,0.0,2023-11-19,local
+2020-03-03,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-03-03,Los Angeles,California,06037,1,0.0,2023-11-19,local
+2020-03-03,Marin,California,06041,1,0.0,2023-11-19,local
+2020-03-03,Napa,California,06055,1,0.0,2023-11-19,local
+2020-03-03,Orange,California,06059,3,0.0,2023-11-19,local
+2020-03-03,Placer,California,06061,2,0.0,2023-11-19,local
+2020-03-03,Sacramento,California,06067,3,0.0,2023-11-19,local
+2020-03-03,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-03-03,San Francisco,California,06075,3,0.0,2023-11-19,local
+2020-03-03,San Mateo,California,06081,1,0.0,2023-11-19,local
+2020-03-03,Santa Clara,California,06085,11,0.0,2023-11-19,local
+2020-03-03,Solano,California,06095,12,0.0,2023-11-19,local
+2020-03-03,Sonoma,California,06097,2,0.0,2023-11-19,local
+2020-03-03,Hillsborough,Florida,12057,2,0.0,2023-11-19,local
+2020-03-03,Manatee,Florida,12081,1,0.0,2023-11-19,local
+2020-03-03,Fulton,Georgia,13121,2,0.0,2023-11-19,local
+2020-03-03,Cook,Illinois,17031,4,0.0,2023-11-19,local
+2020-03-03,Norfolk,Massachusetts,25021,1,0.0,2023-11-19,local
+2020-03-03,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-03-03,Douglas,Nebraska,31055,13,0.0,2023-11-19,local
+2020-03-03,Grafton,New Hampshire,33009,2,0.0,2023-11-19,local
+2020-03-03,Wake,North Carolina,37183,1,0.0,2023-11-19,local
+2020-03-03,Washington,Oregon,41067,2,0.0,2023-11-19,local
+2020-03-03,Bexar,Texas,48029,11,0.0,2023-11-19,local
+2020-03-03,Salt Lake,Utah,49035,1,0.0,2023-11-19,local
+2020-03-03,King,Washington,53033,22,10.0,2023-11-19,local
+2020-03-03,Snohomish,Washington,53061,5,0.0,2023-11-19,local
+2020-03-03,Spokane,Washington,53063,4,0.0,2023-11-19,local
+2020-03-03,Walla Walla,Washington,53071,1,0.0,2023-11-19,local
+2020-03-03,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-03-04,Maricopa,Arizona,04013,2,0.0,2023-11-19,local
+2020-03-04,Alameda,California,06001,2,0.0,2023-11-19,local
+2020-03-04,Contra Costa,California,06013,1,0.0,2023-11-19,local
+2020-03-04,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-03-04,Los Angeles,California,06037,7,0.0,2023-11-19,local
+2020-03-04,Marin,California,06041,1,0.0,2023-11-19,local
+2020-03-04,Napa,California,06055,1,0.0,2023-11-19,local
+2020-03-04,Orange,California,06059,3,0.0,2023-11-19,local
+2020-03-04,Placer,California,06061,2,1.0,2023-11-19,local
+2020-03-04,Sacramento,California,06067,3,0.0,2023-11-19,local
+2020-03-04,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-03-04,San Francisco,California,06075,3,0.0,2023-11-19,local
+2020-03-04,San Mateo,California,06081,1,0.0,2023-11-19,local
+2020-03-04,Santa Clara,California,06085,14,0.0,2023-11-19,local
+2020-03-04,Solano,California,06095,12,0.0,2023-11-19,local
+2020-03-04,Sonoma,California,06097,3,0.0,2023-11-19,local
+2020-03-04,Hillsborough,Florida,12057,2,0.0,2023-11-19,local
+2020-03-04,Manatee,Florida,12081,1,0.0,2023-11-19,local
+2020-03-04,Fulton,Georgia,13121,2,0.0,2023-11-19,local
+2020-03-04,Cook,Illinois,17031,4,0.0,2023-11-19,local
+2020-03-04,Norfolk,Massachusetts,25021,1,0.0,2023-11-19,local
+2020-03-04,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-03-04,Douglas,Nebraska,31055,13,0.0,2023-11-19,local
+2020-03-04,Grafton,New Hampshire,33009,2,0.0,2023-11-19,local
+2020-03-04,Bergen,New Jersey,34003,1,0.0,2023-11-19,local
+2020-03-04,Westchester,New York,36119,9,0.0,2023-11-19,local
+2020-03-04,Wake,North Carolina,37183,1,0.0,2023-11-19,local
+2020-03-04,Washington,Oregon,41067,2,0.0,2023-11-19,local
+2020-03-04,Bexar,Texas,48029,11,0.0,2023-11-19,local
+2020-03-04,Fort Bend,Texas,48157,1,0.0,2023-11-19,local
+2020-03-04,Salt Lake,Utah,49035,1,0.0,2023-11-19,local
+2020-03-04,Chelan,Washington,53007,1,0.0,2023-11-19,local
+2020-03-04,King,Washington,53033,33,11.0,2023-11-19,local
+2020-03-04,Snohomish,Washington,53061,8,0.0,2023-11-19,local
+2020-03-04,Spokane,Washington,53063,4,0.0,2023-11-19,local
+2020-03-04,Walla Walla,Washington,53071,1,0.0,2023-11-19,local
+2020-03-04,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-03-05,Maricopa,Arizona,04013,2,0.0,2023-11-19,local
+2020-03-05,Alameda,California,06001,2,0.0,2023-11-19,local
+2020-03-05,Contra Costa,California,06013,1,0.0,2023-11-19,local
+2020-03-05,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-03-05,Los Angeles,California,06037,11,0.0,2023-11-19,local
+2020-03-05,Marin,California,06041,1,0.0,2023-11-19,local
+2020-03-05,Napa,California,06055,1,0.0,2023-11-19,local
+2020-03-05,Orange,California,06059,3,0.0,2023-11-19,local
+2020-03-05,Placer,California,06061,2,1.0,2023-11-19,local
+2020-03-05,Sacramento,California,06067,3,0.0,2023-11-19,local
+2020-03-05,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-03-05,San Francisco,California,06075,5,0.0,2023-11-19,local
+2020-03-05,San Mateo,California,06081,1,0.0,2023-11-19,local
+2020-03-05,Santa Clara,California,06085,20,0.0,2023-11-19,local
+2020-03-05,Solano,California,06095,12,0.0,2023-11-19,local
+2020-03-05,Sonoma,California,06097,3,0.0,2023-11-19,local
+2020-03-05,Douglas,Colorado,08035,1,0.0,2023-11-19,local
+2020-03-05,Jefferson,Colorado,08059,1,0.0,2023-11-19,local
+2020-03-05,Hillsborough,Florida,12057,2,0.0,2023-11-19,local
+2020-03-05,Manatee,Florida,12081,1,0.0,2023-11-19,local
+2020-03-05,Santa Rosa,Florida,12113,1,0.0,2023-11-19,local
+2020-03-05,Fulton,Georgia,13121,2,0.0,2023-11-19,local
+2020-03-05,Cook,Illinois,17031,5,0.0,2023-11-19,local
+2020-03-05,Montgomery,Maryland,24031,3,0.0,2023-11-19,local
+2020-03-05,Middlesex,Massachusetts,25017,1,0.0,2023-11-19,local
+2020-03-05,Norfolk,Massachusetts,25021,1,0.0,2023-11-19,local
+2020-03-05,Suffolk,Massachusetts,25025,1,0.0,2023-11-19,local
+2020-03-05,Douglas,Nebraska,31055,13,0.0,2023-11-19,local
+2020-03-05,Clark,Nevada,32003,1,0.0,2023-11-19,local
+2020-03-05,Washoe,Nevada,32031,1,0.0,2023-11-19,local
+2020-03-05,Grafton,New Hampshire,33009,2,0.0,2023-11-19,local
+2020-03-05,Bergen,New Jersey,34003,2,0.0,2023-11-19,local
+2020-03-05,Nassau,New York,36059,1,0.0,2023-11-19,local
+2020-03-05,Westchester,New York,36119,17,0.0,2023-11-19,local
+2020-03-05,Wake,North Carolina,37183,1,0.0,2023-11-19,local
+2020-03-05,Washington,Oregon,41067,2,0.0,2023-11-19,local
+2020-03-05,Williamson,Tennessee,47187,1,0.0,2023-11-19,local
+2020-03-05,Bexar,Texas,48029,11,0.0,2023-11-19,local
+2020-03-05,Fort Bend,Texas,48157,1,0.0,2023-11-19,local
+2020-03-05,Harris,Texas,48201,4,0.0,2023-11-19,local
+2020-03-05,Salt Lake,Utah,49035,1,0.0,2023-11-19,local
+2020-03-05,Chelan,Washington,53007,1,0.0,2023-11-19,local
+2020-03-05,King,Washington,53033,52,11.0,2023-11-19,local
+2020-03-05,Snohomish,Washington,53061,17,0.0,2023-11-19,local
+2020-03-05,Spokane,Washington,53063,4,0.0,2023-11-19,local
+2020-03-05,Walla Walla,Washington,53071,1,0.0,2023-11-19,local
+2020-03-05,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-03-06,Maricopa,Arizona,04013,2,0.0,2023-11-19,local
+2020-03-06,Pinal,Arizona,04021,1,0.0,2023-11-19,local
+2020-03-06,Alameda,California,06001,3,0.0,2023-11-19,local
+2020-03-06,Contra Costa,California,06013,4,0.0,2023-11-19,local
+2020-03-06,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-03-06,Los Angeles,California,06037,13,0.0,2023-11-19,local
+2020-03-06,Marin,California,06041,1,0.0,2023-11-19,local
+2020-03-06,Napa,California,06055,1,0.0,2023-11-19,local
+2020-03-06,Orange,California,06059,3,0.0,2023-11-19,local
+2020-03-06,Placer,California,06061,5,1.0,2023-11-19,local
+2020-03-06,Sacramento,California,06067,3,0.0,2023-11-19,local
+2020-03-06,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-03-06,San Francisco,California,06075,5,0.0,2023-11-19,local
+2020-03-06,San Mateo,California,06081,1,0.0,2023-11-19,local
+2020-03-06,Santa Clara,California,06085,24,0.0,2023-11-19,local
+2020-03-06,Solano,California,06095,12,0.0,2023-11-19,local
+2020-03-06,Sonoma,California,06097,3,0.0,2023-11-19,local
+2020-03-06,Yolo,California,06113,1,0.0,2023-11-19,local
+2020-03-06,Denver,Colorado,08031,2,0.0,2023-11-19,local
+2020-03-06,Douglas,Colorado,08035,3,0.0,2023-11-19,local
+2020-03-06,Eagle,Colorado,08037,1,0.0,2023-11-19,local
+2020-03-06,El Paso,Colorado,08041,1,0.0,2023-11-19,local
+2020-03-06,Jefferson,Colorado,08059,1,0.0,2023-11-19,local
+2020-03-06,Broward,Florida,12011,2,0.0,2023-11-19,local
+2020-03-06,Hillsborough,Florida,12057,2,0.0,2023-11-19,local
+2020-03-06,Lee,Florida,12071,1,1.0,2023-11-19,local
+2020-03-06,Manatee,Florida,12081,1,0.0,2023-11-19,local
+2020-03-06,Santa Rosa,Florida,12113,1,1.0,2023-11-19,local
+2020-03-06,Fulton,Georgia,13121,2,0.0,2023-11-19,local
+2020-03-06,Polk,Georgia,13233,1,0.0,2023-11-19,local
+2020-03-06,Honolulu,Hawaii,15003,1,0.0,2023-11-19,local
+2020-03-06,Cook,Illinois,17031,6,0.0,2023-11-19,local
+2020-03-06,Marion,Indiana,18097,1,0.0,2023-11-19,local
+2020-03-06,Fayette,Kentucky,21067,1,0.0,2023-11-19,local
+2020-03-06,Montgomery,Maryland,24031,3,0.0,2023-11-19,local
+2020-03-06,Middlesex,Massachusetts,25017,1,0.0,2023-11-19,local
+2020-03-06,Norfolk,Massachusetts,25021,3,0.0,2023-11-19,local
+2020-03-06,Suffolk,Massachusetts,25025,4,0.0,2023-11-19,local
+2020-03-06,Ramsey,Minnesota,27123,1,0.0,2023-11-19,local
+2020-03-06,Douglas,Nebraska,31055,14,0.0,2023-11-19,local
+2020-03-06,Clark,Nevada,32003,1,0.0,2023-11-19,local
+2020-03-06,Washoe,Nevada,32031,1,0.0,2023-11-19,local
+2020-03-06,Grafton,New Hampshire,33009,2,0.0,2023-11-19,local
+2020-03-06,Bergen,New Jersey,34003,3,0.0,2023-11-19,local
+2020-03-06,Camden,New Jersey,34007,1,0.0,2023-11-19,local
+2020-03-06,Nassau,New York,36059,4,0.0,2023-11-19,local
+2020-03-06,Rockland,New York,36087,2,0.0,2023-11-19,local
+2020-03-06,Westchester,New York,36119,33,0.0,2023-11-19,local
+2020-03-06,Chatham,North Carolina,37037,1,0.0,2023-11-19,local
+2020-03-06,Wake,North Carolina,37183,1,0.0,2023-11-19,local
+2020-03-06,Tulsa,Oklahoma,40143,1,0.0,2023-11-19,local
+2020-03-06,Washington,Oregon,41067,2,0.0,2023-11-19,local
+2020-03-06,Delaware,Pennsylvania,42045,1,0.0,2023-11-19,local
+2020-03-06,Wayne,Pennsylvania,42127,1,0.0,2023-11-19,local
+2020-03-06,Charleston,South Carolina,45019,1,0.0,2023-11-19,local
+2020-03-06,Kershaw,South Carolina,45055,1,0.0,2023-11-19,local
+2020-03-06,Williamson,Tennessee,47187,1,0.0,2023-11-19,local
+2020-03-06,Bexar,Texas,48029,11,0.0,2023-11-19,local
+2020-03-06,Fort Bend,Texas,48157,3,0.0,2023-11-19,local
+2020-03-06,Harris,Texas,48201,5,0.0,2023-11-19,local
+2020-03-06,Davis,Utah,49011,1,0.0,2023-11-19,local
+2020-03-06,Salt Lake,Utah,49035,1,0.0,2023-11-19,local
+2020-03-06,Washington,Utah,49053,1,0.0,2023-11-19,local
+2020-03-06,Chelan,Washington,53007,1,0.0,2023-11-19,local
+2020-03-06,Clark,Washington,53011,1,0.0,2023-11-19,local
+2020-03-06,Jefferson,Washington,53031,1,0.0,2023-11-19,local
+2020-03-06,King,Washington,53033,59,12.0,2023-11-19,local
+2020-03-06,Pierce,Washington,53053,1,0.0,2023-11-19,local
+2020-03-06,Snohomish,Washington,53061,18,0.0,2023-11-19,local
+2020-03-06,Spokane,Washington,53063,4,0.0,2023-11-19,local
+2020-03-06,Walla Walla,Washington,53071,1,0.0,2023-11-19,local
+2020-03-06,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-03-07,Maricopa,Arizona,04013,2,0.0,2023-11-19,local
+2020-03-07,Pinal,Arizona,04021,3,0.0,2023-11-19,local
+2020-03-07,Alameda,California,06001,3,0.0,2023-11-19,local
+2020-03-07,Contra Costa,California,06013,4,0.0,2023-11-19,local
+2020-03-07,Fresno,California,06019,1,0.0,2023-11-19,local
+2020-03-07,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-03-07,Los Angeles,California,06037,14,0.0,2023-11-19,local
+2020-03-07,Madera,California,06039,1,0.0,2023-11-19,local
+2020-03-07,Marin,California,06041,1,0.0,2023-11-19,local
+2020-03-07,Napa,California,06055,1,0.0,2023-11-19,local
+2020-03-07,Orange,California,06059,3,0.0,2023-11-19,local
+2020-03-07,Placer,California,06061,5,1.0,2023-11-19,local
+2020-03-07,Riverside,California,06065,1,0.0,2023-11-19,local
+2020-03-07,Sacramento,California,06067,3,0.0,2023-11-19,local
+2020-03-07,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-03-07,San Francisco,California,06075,11,0.0,2023-11-19,local
+2020-03-07,San Mateo,California,06081,1,0.0,2023-11-19,local
+2020-03-07,Santa Clara,California,06085,32,0.0,2023-11-19,local
+2020-03-07,Santa Cruz,California,06087,1,0.0,2023-11-19,local
+2020-03-07,Solano,California,06095,12,0.0,2023-11-19,local
+2020-03-07,Sonoma,California,06097,3,0.0,2023-11-19,local
+2020-03-07,Yolo,California,06113,1,0.0,2023-11-19,local
+2020-03-07,Denver,Colorado,08031,2,0.0,2023-11-19,local
+2020-03-07,Douglas,Colorado,08035,3,0.0,2023-11-19,local
+2020-03-07,Eagle,Colorado,08037,1,0.0,2023-11-19,local
+2020-03-07,El Paso,Colorado,08041,1,0.0,2023-11-19,local
+2020-03-07,Jefferson,Colorado,08059,1,0.0,2023-11-19,local
+2020-03-07,District of Columbia,District of Columbia,11001,1,0.0,2023-11-19,local
+2020-03-07,Broward,Florida,12011,2,0.0,2023-11-19,local
+2020-03-07,Charlotte,Florida,12015,1,0.0,2023-11-19,local
+2020-03-07,Hillsborough,Florida,12057,2,0.0,2023-11-19,local
+2020-03-07,Lee,Florida,12071,2,1.0,2023-11-19,local
+2020-03-07,Manatee,Florida,12081,2,0.0,2023-11-19,local
+2020-03-07,Okaloosa,Florida,12091,1,0.0,2023-11-19,local
+2020-03-07,Santa Rosa,Florida,12113,1,1.0,2023-11-19,local
+2020-03-07,Volusia,Florida,12127,1,0.0,2023-11-19,local
+2020-03-07,Cobb,Georgia,13067,1,0.0,2023-11-19,local
+2020-03-07,Fulton,Georgia,13121,4,0.0,2023-11-19,local
+2020-03-07,Gwinnett,Georgia,13135,1,0.0,2023-11-19,local
+2020-03-07,Polk,Georgia,13233,1,0.0,2023-11-19,local
+2020-03-07,Honolulu,Hawaii,15003,1,0.0,2023-11-19,local
+2020-03-07,Cook,Illinois,17031,6,0.0,2023-11-19,local
+2020-03-07,Marion,Indiana,18097,1,0.0,2023-11-19,local
+2020-03-07,Johnson,Kansas,20091,1,0.0,2023-11-19,local
+2020-03-07,Fayette,Kentucky,21067,1,0.0,2023-11-19,local
+2020-03-07,Montgomery,Maryland,24031,3,0.0,2023-11-19,local
+2020-03-07,Berkshire,Massachusetts,25003,1,0.0,2023-11-19,local
+2020-03-07,Middlesex,Massachusetts,25017,5,0.0,2023-11-19,local
+2020-03-07,Norfolk,Massachusetts,25021,3,0.0,2023-11-19,local
+2020-03-07,Suffolk,Massachusetts,25025,4,0.0,2023-11-19,local
+2020-03-07,Ramsey,Minnesota,27123,1,0.0,2023-11-19,local
+2020-03-07,St. Louis,Missouri,29189,1,0.0,2023-11-19,local
+2020-03-07,Douglas,Nebraska,31055,14,0.0,2023-11-19,local
+2020-03-07,Clark,Nevada,32003,1,0.0,2023-11-19,local
+2020-03-07,Washoe,Nevada,32031,1,0.0,2023-11-19,local
+2020-03-07,Grafton,New Hampshire,33009,3,0.0,2023-11-19,local
+2020-03-07,Rockingham,New Hampshire,33015,1,0.0,2023-11-19,local
+2020-03-07,Bergen,New Jersey,34003,3,0.0,2023-11-19,local
+2020-03-07,Camden,New Jersey,34007,1,0.0,2023-11-19,local
+2020-03-07,Nassau,New York,36059,4,0.0,2023-11-19,local
+2020-03-07,Rockland,New York,36087,2,0.0,2023-11-19,local
+2020-03-07,Saratoga,New York,36091,2,0.0,2023-11-19,local
+2020-03-07,Westchester,New York,36119,69,0.0,2023-11-19,local
+2020-03-07,Chatham,North Carolina,37037,1,0.0,2023-11-19,local
+2020-03-07,Wake,North Carolina,37183,1,0.0,2023-11-19,local
+2020-03-07,Tulsa,Oklahoma,40143,1,0.0,2023-11-19,local
+2020-03-07,Jackson,Oregon,41029,2,0.0,2023-11-19,local
+2020-03-07,Klamath,Oregon,41035,1,0.0,2023-11-19,local
+2020-03-07,Washington,Oregon,41067,3,0.0,2023-11-19,local
+2020-03-07,Delaware,Pennsylvania,42045,1,0.0,2023-11-19,local
+2020-03-07,Montgomery,Pennsylvania,42091,2,0.0,2023-11-19,local
+2020-03-07,Wayne,Pennsylvania,42127,1,0.0,2023-11-19,local
+2020-03-07,Charleston,South Carolina,45019,1,0.0,2023-11-19,local
+2020-03-07,Kershaw,South Carolina,45055,1,0.0,2023-11-19,local
+2020-03-07,Williamson,Tennessee,47187,1,0.0,2023-11-19,local
+2020-03-07,Bexar,Texas,48029,11,0.0,2023-11-19,local
+2020-03-07,Fort Bend,Texas,48157,3,0.0,2023-11-19,local
+2020-03-07,Harris,Texas,48201,5,0.0,2023-11-19,local
+2020-03-07,Davis,Utah,49011,1,0.0,2023-11-19,local
+2020-03-07,Salt Lake,Utah,49035,1,0.0,2023-11-19,local
+2020-03-07,Washington,Utah,49053,1,0.0,2023-11-19,local
+2020-03-07,Bennington,Vermont,50003,1,0.0,2023-11-19,local
+2020-03-07,Fairfax,Virginia,51059,1,0.0,2023-11-19,local
+2020-03-07,Chelan,Washington,53007,1,0.0,2023-11-19,local
+2020-03-07,Clark,Washington,53011,1,0.0,2023-11-19,local
+2020-03-07,Jefferson,Washington,53031,1,0.0,2023-11-19,local
+2020-03-07,King,Washington,53033,72,16.0,2023-11-19,local
+2020-03-07,Kittitas,Washington,53037,1,0.0,2023-11-19,local
+2020-03-07,Pierce,Washington,53053,3,0.0,2023-11-19,local
+2020-03-07,Snohomish,Washington,53061,26,0.0,2023-11-19,local
+2020-03-07,Spokane,Washington,53063,4,0.0,2023-11-19,local
+2020-03-07,Walla Walla,Washington,53071,1,0.0,2023-11-19,local
+2020-03-07,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-03-08,Maricopa,Arizona,04013,2,0.0,2023-11-19,local
+2020-03-08,Pinal,Arizona,04021,3,0.0,2023-11-19,local
+2020-03-08,Alameda,California,06001,3,0.0,2023-11-19,local
+2020-03-08,Contra Costa,California,06013,9,0.0,2023-11-19,local
+2020-03-08,Fresno,California,06019,1,0.0,2023-11-19,local
+2020-03-08,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-03-08,Los Angeles,California,06037,14,0.0,2023-11-19,local
+2020-03-08,Madera,California,06039,1,0.0,2023-11-19,local
+2020-03-08,Marin,California,06041,1,0.0,2023-11-19,local
+2020-03-08,Napa,California,06055,1,0.0,2023-11-19,local
+2020-03-08,Orange,California,06059,3,0.0,2023-11-19,local
+2020-03-08,Placer,California,06061,7,1.0,2023-11-19,local
+2020-03-08,Riverside,California,06065,1,0.0,2023-11-19,local
+2020-03-08,Sacramento,California,06067,3,0.0,2023-11-19,local
+2020-03-08,San Diego,California,06073,1,0.0,2023-11-19,local
+2020-03-08,San Francisco,California,06075,11,0.0,2023-11-19,local
+2020-03-08,San Mateo,California,06081,1,0.0,2023-11-19,local
+2020-03-08,Santa Clara,California,06085,37,0.0,2023-11-19,local
+2020-03-08,Santa Cruz,California,06087,1,0.0,2023-11-19,local
+2020-03-08,Solano,California,06095,12,0.0,2023-11-19,local
+2020-03-08,Sonoma,California,06097,3,0.0,2023-11-19,local
+2020-03-08,Yolo,California,06113,1,0.0,2023-11-19,local
+2020-03-08,Denver,Colorado,08031,2,0.0,2023-11-19,local
+2020-03-08,Douglas,Colorado,08035,3,0.0,2023-11-19,local
+2020-03-08,Eagle,Colorado,08037,1,0.0,2023-11-19,local
+2020-03-08,El Paso,Colorado,08041,1,0.0,2023-11-19,local
+2020-03-08,Jefferson,Colorado,08059,1,0.0,2023-11-19,local
+2020-03-08,Fairfield,Connecticut,09001,1,0.0,2023-11-19,local
+2020-03-08,District of Columbia,District of Columbia,11001,1,0.0,2023-11-19,local
+2020-03-08,Broward,Florida,12011,3,0.0,2023-11-19,local
+2020-03-08,Charlotte,Florida,12015,1,0.0,2023-11-19,local
+2020-03-08,Hillsborough,Florida,12057,2,0.0,2023-11-19,local
+2020-03-08,Lee,Florida,12071,2,1.0,2023-11-19,local
+2020-03-08,Manatee,Florida,12081,2,0.0,2023-11-19,local
+2020-03-08,Okaloosa,Florida,12091,1,0.0,2023-11-19,local
+2020-03-08,Santa Rosa,Florida,12113,1,1.0,2023-11-19,local
+2020-03-08,Volusia,Florida,12127,1,0.0,2023-11-19,local
+2020-03-08,Cherokee,Georgia,13057,1,0.0,2023-11-19,local
+2020-03-08,Cobb,Georgia,13067,3,0.0,2023-11-19,local
+2020-03-08,Fulton,Georgia,13121,5,0.0,2023-11-19,local
+2020-03-08,Gwinnett,Georgia,13135,1,0.0,2023-11-19,local
+2020-03-08,Polk,Georgia,13233,1,0.0,2023-11-19,local
+2020-03-08,Honolulu,Hawaii,15003,2,0.0,2023-11-19,local
+2020-03-08,Cook,Illinois,17031,7,0.0,2023-11-19,local
+2020-03-08,Hendricks,Indiana,18063,1,0.0,2023-11-19,local
+2020-03-08,Marion,Indiana,18097,1,0.0,2023-11-19,local
+2020-03-08,Johnson,Iowa,19103,3,0.0,2023-11-19,local
+2020-03-08,Johnson,Kansas,20091,1,0.0,2023-11-19,local
+2020-03-08,Fayette,Kentucky,21067,2,0.0,2023-11-19,local
+2020-03-08,Harrison,Kentucky,21097,1,0.0,2023-11-19,local
+2020-03-08,Jefferson,Kentucky,21111,1,0.0,2023-11-19,local
+2020-03-08,Harford,Maryland,24025,1,0.0,2023-11-19,local
+2020-03-08,Montgomery,Maryland,24031,4,0.0,2023-11-19,local
+2020-03-08,Berkshire,Massachusetts,25003,1,0.0,2023-11-19,local
+2020-03-08,Middlesex,Massachusetts,25017,10,0.0,2023-11-19,local
+2020-03-08,Norfolk,Massachusetts,25021,7,0.0,2023-11-19,local
+2020-03-08,Suffolk,Massachusetts,25025,9,0.0,2023-11-19,local
+2020-03-08,Worcester,Massachusetts,25027,1,0.0,2023-11-19,local
+2020-03-08,Carver,Minnesota,27019,1,0.0,2023-11-19,local
+2020-03-08,Ramsey,Minnesota,27123,1,0.0,2023-11-19,local
+2020-03-08,St. Louis,Missouri,29189,1,0.0,2023-11-19,local
+2020-03-08,Douglas,Nebraska,31055,16,0.0,2023-11-19,local
+2020-03-08,Clark,Nevada,32003,2,0.0,2023-11-19,local
+2020-03-08,Washoe,Nevada,32031,2,0.0,2023-11-19,local
+2020-03-08,Grafton,New Hampshire,33009,3,0.0,2023-11-19,local
+2020-03-08,Rockingham,New Hampshire,33015,1,0.0,2023-11-19,local
+2020-03-08,Bergen,New Jersey,34003,4,0.0,2023-11-19,local
+2020-03-08,Camden,New Jersey,34007,1,0.0,2023-11-19,local
+2020-03-08,Passaic,New Jersey,34031,1,0.0,2023-11-19,local
+2020-03-08,Nassau,New York,36059,5,0.0,2023-11-19,local
+2020-03-08,Rockland,New York,36087,2,0.0,2023-11-19,local
+2020-03-08,Saratoga,New York,36091,2,0.0,2023-11-19,local
+2020-03-08,Suffolk,New York,36103,1,0.0,2023-11-19,local
+2020-03-08,Ulster,New York,36111,1,0.0,2023-11-19,local
+2020-03-08,Westchester,New York,36119,81,0.0,2023-11-19,local
+2020-03-08,Chatham,North Carolina,37037,1,0.0,2023-11-19,local
+2020-03-08,Wake,North Carolina,37183,1,0.0,2023-11-19,local
+2020-03-08,Tulsa,Oklahoma,40143,1,0.0,2023-11-19,local
+2020-03-08,Douglas,Oregon,41019,1,0.0,2023-11-19,local
+2020-03-08,Jackson,Oregon,41029,2,0.0,2023-11-19,local
+2020-03-08,Klamath,Oregon,41035,1,0.0,2023-11-19,local
+2020-03-08,Marion,Oregon,41047,1,0.0,2023-11-19,local
+2020-03-08,Washington,Oregon,41067,8,0.0,2023-11-19,local
+2020-03-08,Delaware,Pennsylvania,42045,1,0.0,2023-11-19,local
+2020-03-08,Montgomery,Pennsylvania,42091,4,0.0,2023-11-19,local
+2020-03-08,Wayne,Pennsylvania,42127,1,0.0,2023-11-19,local
+2020-03-08,Charleston,South Carolina,45019,1,0.0,2023-11-19,local
+2020-03-08,Kershaw,South Carolina,45055,4,0.0,2023-11-19,local
+2020-03-08,Spartanburg,South Carolina,45083,1,0.0,2023-11-19,local
+2020-03-08,Davidson,Tennessee,47037,1,0.0,2023-11-19,local
+2020-03-08,Shelby,Tennessee,47157,1,0.0,2023-11-19,local
+2020-03-08,Williamson,Tennessee,47187,1,0.0,2023-11-19,local
+2020-03-08,Bexar,Texas,48029,11,0.0,2023-11-19,local
+2020-03-08,Fort Bend,Texas,48157,6,0.0,2023-11-19,local
+2020-03-08,Harris,Texas,48201,6,0.0,2023-11-19,local
+2020-03-08,Davis,Utah,49011,1,0.0,2023-11-19,local
+2020-03-08,Salt Lake,Utah,49035,1,0.0,2023-11-19,local
+2020-03-08,Washington,Utah,49053,1,0.0,2023-11-19,local
+2020-03-08,Bennington,Vermont,50003,1,0.0,2023-11-19,local
+2020-03-08,Fairfax,Virginia,51059,2,0.0,2023-11-19,local
+2020-03-08,Chelan,Washington,53007,1,1.0,2023-11-19,local
+2020-03-08,Clark,Washington,53011,1,0.0,2023-11-19,local
+2020-03-08,Jefferson,Washington,53031,1,0.0,2023-11-19,local
+2020-03-08,King,Washington,53033,91,18.0,2023-11-19,local
+2020-03-08,Kitsap,Washington,53035,1,0.0,2023-11-19,local
+2020-03-08,Kittitas,Washington,53037,1,0.0,2023-11-19,local
+2020-03-08,Pierce,Washington,53053,4,0.0,2023-11-19,local
+2020-03-08,Snohomish,Washington,53061,36,0.0,2023-11-19,local
+2020-03-08,Spokane,Washington,53063,4,0.0,2023-11-19,local
+2020-03-08,Walla Walla,Washington,53071,1,0.0,2023-11-19,local
+2020-03-08,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-03-09,Maricopa,Arizona,04013,2,0.0,2023-11-19,local
+2020-03-09,Pima,Arizona,04019,1,0.0,2023-11-19,local
+2020-03-09,Pinal,Arizona,04021,3,0.0,2023-11-19,local
+2020-03-09,Alameda,California,06001,24,0.0,2023-11-19,local
+2020-03-09,Contra Costa,California,06013,9,0.0,2023-11-19,local
+2020-03-09,Fresno,California,06019,1,0.0,2023-11-19,local
+2020-03-09,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-03-09,Los Angeles,California,06037,19,0.0,2023-11-19,local
+2020-03-09,Madera,California,06039,1,0.0,2023-11-19,local
+2020-03-09,Marin,California,06041,2,0.0,2023-11-19,local
+2020-03-09,Napa,California,06055,1,0.0,2023-11-19,local
+2020-03-09,Orange,California,06059,5,0.0,2023-11-19,local
+2020-03-09,Placer,California,06061,7,1.0,2023-11-19,local
+2020-03-09,Riverside,California,06065,4,0.0,2023-11-19,local
+2020-03-09,Sacramento,California,06067,9,0.0,2023-11-19,local
+2020-03-09,San Diego,California,06073,2,0.0,2023-11-19,local
+2020-03-09,San Francisco,California,06075,16,0.0,2023-11-19,local
+2020-03-09,San Mateo,California,06081,9,0.0,2023-11-19,local
+2020-03-09,Santa Clara,California,06085,43,1.0,2023-11-19,local
+2020-03-09,Santa Cruz,California,06087,2,0.0,2023-11-19,local
+2020-03-09,Shasta,California,06089,1,0.0,2023-11-19,local
+2020-03-09,Solano,California,06095,12,0.0,2023-11-19,local
+2020-03-09,Sonoma,California,06097,3,0.0,2023-11-19,local
+2020-03-09,Yolo,California,06113,1,0.0,2023-11-19,local
+2020-03-09,Arapahoe,Colorado,08005,1,0.0,2023-11-19,local
+2020-03-09,Denver,Colorado,08031,3,0.0,2023-11-19,local
+2020-03-09,Douglas,Colorado,08035,3,0.0,2023-11-19,local
+2020-03-09,Eagle,Colorado,08037,2,0.0,2023-11-19,local
+2020-03-09,El Paso,Colorado,08041,1,0.0,2023-11-19,local
+2020-03-09,Jefferson,Colorado,08059,1,0.0,2023-11-19,local
+2020-03-09,Larimer,Colorado,08069,1,0.0,2023-11-19,local
+2020-03-09,Fairfield,Connecticut,09001,2,0.0,2023-11-19,local
+2020-03-09,District of Columbia,District of Columbia,11001,4,0.0,2023-11-19,local
+2020-03-09,Broward,Florida,12011,3,0.0,2023-11-19,local
+2020-03-09,Charlotte,Florida,12015,1,0.0,2023-11-19,local
+2020-03-09,Hillsborough,Florida,12057,2,0.0,2023-11-19,local
+2020-03-09,Lee,Florida,12071,2,1.0,2023-11-19,local
+2020-03-09,Manatee,Florida,12081,2,0.0,2023-11-19,local
+2020-03-09,Okaloosa,Florida,12091,1,0.0,2023-11-19,local
+2020-03-09,Santa Rosa,Florida,12113,1,1.0,2023-11-19,local
+2020-03-09,Volusia,Florida,12127,2,0.0,2023-11-19,local
+2020-03-09,Cherokee,Georgia,13057,1,0.0,2023-11-19,local
+2020-03-09,Cobb,Georgia,13067,4,0.0,2023-11-19,local
+2020-03-09,DeKalb,Georgia,13089,2,0.0,2023-11-19,local
+2020-03-09,Fayette,Georgia,13113,1,0.0,2023-11-19,local
+2020-03-09,Floyd,Georgia,13115,1,0.0,2023-11-19,local
+2020-03-09,Fulton,Georgia,13121,5,0.0,2023-11-19,local
+2020-03-09,Gwinnett,Georgia,13135,2,0.0,2023-11-19,local
+2020-03-09,Polk,Georgia,13233,1,0.0,2023-11-19,local
+2020-03-09,Honolulu,Hawaii,15003,2,0.0,2023-11-19,local
+2020-03-09,Cook,Illinois,17031,11,0.0,2023-11-19,local
+2020-03-09,Hendricks,Indiana,18063,2,0.0,2023-11-19,local
+2020-03-09,Marion,Indiana,18097,1,0.0,2023-11-19,local
+2020-03-09,Noble,Indiana,18113,1,0.0,2023-11-19,local
+2020-03-09,Johnson,Iowa,19103,7,0.0,2023-11-19,local
+2020-03-09,Pottawattamie,Iowa,19155,1,0.0,2023-11-19,local
+2020-03-09,Johnson,Kansas,20091,1,0.0,2023-11-19,local
+2020-03-09,Fayette,Kentucky,21067,3,0.0,2023-11-19,local
+2020-03-09,Harrison,Kentucky,21097,1,0.0,2023-11-19,local
+2020-03-09,Jefferson,Kentucky,21111,1,0.0,2023-11-19,local
+2020-03-09,Jefferson,Louisiana,22051,1,0.0,2023-11-19,local
+2020-03-09,Harford,Maryland,24025,1,0.0,2023-11-19,local
+2020-03-09,Montgomery,Maryland,24031,4,0.0,2023-11-19,local
+2020-03-09,Prince George's,Maryland,24033,1,0.0,2023-11-19,local
+2020-03-09,Berkshire,Massachusetts,25003,5,0.0,2023-11-19,local
+2020-03-09,Middlesex,Massachusetts,25017,15,0.0,2023-11-19,local
+2020-03-09,Norfolk,Massachusetts,25021,10,0.0,2023-11-19,local
+2020-03-09,Suffolk,Massachusetts,25025,10,0.0,2023-11-19,local
+2020-03-09,Worcester,Massachusetts,25027,1,0.0,2023-11-19,local
+2020-03-09,Carver,Minnesota,27019,1,0.0,2023-11-19,local
+2020-03-09,Ramsey,Minnesota,27123,1,0.0,2023-11-19,local
+2020-03-09,St. Louis,Missouri,29189,1,0.0,2023-11-19,local
+2020-03-09,Douglas,Nebraska,31055,16,0.0,2023-11-19,local
+2020-03-09,Clark,Nevada,32003,2,0.0,2023-11-19,local
+2020-03-09,Washoe,Nevada,32031,2,0.0,2023-11-19,local
+2020-03-09,Grafton,New Hampshire,33009,3,0.0,2023-11-19,local
+2020-03-09,Rockingham,New Hampshire,33015,1,0.0,2023-11-19,local
+2020-03-09,Bergen,New Jersey,34003,5,0.0,2023-11-19,local
+2020-03-09,Camden,New Jersey,34007,1,0.0,2023-11-19,local
+2020-03-09,Hudson,New Jersey,34017,1,0.0,2023-11-19,local
+2020-03-09,Monmouth,New Jersey,34025,2,0.0,2023-11-19,local
+2020-03-09,Passaic,New Jersey,34031,1,0.0,2023-11-19,local
+2020-03-09,Union,New Jersey,34039,1,0.0,2023-11-19,local
+2020-03-09,Nassau,New York,36059,17,0.0,2023-11-19,local
+2020-03-09,Rockland,New York,36087,4,0.0,2023-11-19,local
+2020-03-09,Saratoga,New York,36091,2,0.0,2023-11-19,local
+2020-03-09,Suffolk,New York,36103,1,0.0,2023-11-19,local
+2020-03-09,Ulster,New York,36111,1,0.0,2023-11-19,local
+2020-03-09,Westchester,New York,36119,97,0.0,2023-11-19,local
+2020-03-09,Chatham,North Carolina,37037,1,0.0,2023-11-19,local
+2020-03-09,Wake,North Carolina,37183,6,0.0,2023-11-19,local
+2020-03-09,Cuyahoga,Ohio,39035,3,0.0,2023-11-19,local
+2020-03-09,Tulsa,Oklahoma,40143,1,0.0,2023-11-19,local
+2020-03-09,Douglas,Oregon,41019,1,0.0,2023-11-19,local
+2020-03-09,Jackson,Oregon,41029,2,0.0,2023-11-19,local
+2020-03-09,Klamath,Oregon,41035,1,0.0,2023-11-19,local
+2020-03-09,Marion,Oregon,41047,1,0.0,2023-11-19,local
+2020-03-09,Washington,Oregon,41067,8,0.0,2023-11-19,local
+2020-03-09,Delaware,Pennsylvania,42045,1,0.0,2023-11-19,local
+2020-03-09,Monroe,Pennsylvania,42089,1,0.0,2023-11-19,local
+2020-03-09,Montgomery,Pennsylvania,42091,7,0.0,2023-11-19,local
+2020-03-09,Wayne,Pennsylvania,42127,1,0.0,2023-11-19,local
+2020-03-09,Charleston,South Carolina,45019,1,0.0,2023-11-19,local
+2020-03-09,Kershaw,South Carolina,45055,5,0.0,2023-11-19,local
+2020-03-09,Spartanburg,South Carolina,45083,1,0.0,2023-11-19,local
+2020-03-09,Davidson,Tennessee,47037,1,0.0,2023-11-19,local
+2020-03-09,Shelby,Tennessee,47157,1,0.0,2023-11-19,local
+2020-03-09,Williamson,Tennessee,47187,2,0.0,2023-11-19,local
+2020-03-09,Bexar,Texas,48029,11,0.0,2023-11-19,local
+2020-03-09,Collin,Texas,48085,1,0.0,2023-11-19,local
+2020-03-09,Fort Bend,Texas,48157,6,0.0,2023-11-19,local
+2020-03-09,Harris,Texas,48201,6,0.0,2023-11-19,local
+2020-03-09,Davis,Utah,49011,1,0.0,2023-11-19,local
+2020-03-09,Salt Lake,Utah,49035,1,0.0,2023-11-19,local
+2020-03-09,Washington,Utah,49053,1,0.0,2023-11-19,local
+2020-03-09,Bennington,Vermont,50003,1,0.0,2023-11-19,local
+2020-03-09,Fairfax,Virginia,51059,4,0.0,2023-11-19,local
+2020-03-09,Virginia Beach city,Virginia,51810,1,0.0,2023-11-19,local
+2020-03-09,Chelan,Washington,53007,1,1.0,2023-11-19,local
+2020-03-09,Clark,Washington,53011,1,0.0,2023-11-19,local
+2020-03-09,Jefferson,Washington,53031,1,0.0,2023-11-19,local
+2020-03-09,King,Washington,53033,117,21.0,2023-11-19,local
+2020-03-09,Kitsap,Washington,53035,1,0.0,2023-11-19,local
+2020-03-09,Kittitas,Washington,53037,1,0.0,2023-11-19,local
+2020-03-09,Pierce,Washington,53053,7,0.0,2023-11-19,local
+2020-03-09,Snohomish,Washington,53061,45,0.0,2023-11-19,local
+2020-03-09,Spokane,Washington,53063,4,0.0,2023-11-19,local
+2020-03-09,Walla Walla,Washington,53071,1,0.0,2023-11-19,local
+2020-03-09,Dane,Wisconsin,55025,1,0.0,2023-11-19,local
+2020-03-09,Pierce,Wisconsin,55093,1,0.0,2023-11-19,local
+2020-03-10,Maricopa,Arizona,04013,2,0.0,2023-11-19,local
+2020-03-10,Pima,Arizona,04019,1,0.0,2023-11-19,local
+2020-03-10,Pinal,Arizona,04021,3,0.0,2023-11-19,local
+2020-03-10,Alameda,California,06001,25,0.0,2023-11-19,local
+2020-03-10,Contra Costa,California,06013,9,0.0,2023-11-19,local
+2020-03-10,Fresno,California,06019,1,0.0,2023-11-19,local
+2020-03-10,Humboldt,California,06023,1,0.0,2023-11-19,local
+2020-03-10,Los Angeles,California,06037,20,0.0,2023-11-19,local
+2020-03-10,Madera,California,06039,1,0.0,2023-11-19,local
+2020-03-10,Marin,California,06041,2,0.0,2023-11-19,local
+2020-03-10,Napa,California,06055,1,0.0,2023-11-19,local
+2020-03-10,Orange,California,06059,5,0.0,2023-11-19,local
+2020-03-10,Placer,California,06061,7,1.0,2023-11-19,local
+2020-03-10,Riverside,California,06065,4,0.0,2023-11-19,local
+2020-03-10,Sacramento,California,06067,9,1.0,2023-11-19,local
+2020-03-10,San Diego,California,06073,2,0.0,2023-11-19,local
+2020-03-10,San Francisco,California,06075,17,0.0,2023-11-19,local
+2020-03-10,San Joaquin,California,06077,1,0.0,2023-11-19,local
+2020-03-10,San Mateo,California,06081,9,0.0,2023-11-19,local
+2020-03-10,Santa Clara,California,06085,45,1.0,2023-11-19,local
+2020-03-10,Santa Cruz,California,06087,2,0.0,2023-11-19,local
+2020-03-10,Shasta,California,06089,1,,2023-11-19,local
